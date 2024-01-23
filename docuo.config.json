@@ -3,7 +3,7 @@
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "sunliying自动更新哈哈哈",
+      "title": "正式环境触发自动更新",
       "logo": "image/logo.png",
       "items": [
         {
