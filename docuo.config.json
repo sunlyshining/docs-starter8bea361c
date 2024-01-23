@@ -1,9 +1,9 @@
 {
-  "title": "My site",
+  "title": "12345678",
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
+      "title": "sunliying 的 自动更新项目",
       "logo": "image/logo.png",
       "items": [
         {
